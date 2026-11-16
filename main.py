@@ -1,4 +1,5 @@
-
+import pygame
+import sys
 import copy
 import json
 import random
