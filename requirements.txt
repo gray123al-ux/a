@@ -1,1 +1,2 @@
-pygame>=2.5.0
+
+streamlit==1.50.0
